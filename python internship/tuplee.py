@@ -1,0 +1,6 @@
+tup1=("sweets","choclate","food","18")
+print(tup1)
+print(tup1[2])
+print(tup1[0:2])
+print(type(tup1))
+print(len(tup1))
